@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./art/hero.jpg" alt="Minato Namikaze Logo" width="100%">
+  <img src="./Minato/art/hero.jpg" alt="Minato Namikaze Logo" width="100%">
 
   # ⚡ Minato Namikaze — The Yellow Flash (黄色い閃光)
 
